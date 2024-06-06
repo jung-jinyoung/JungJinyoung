@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Momentum App</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+    <form id="login-form" class ="hidden">
+        <!-- input 값을 유효성 검사를 하고 싶으면 form과 함께 사용해야 한다. -->
+        <input 
+            required 
+            maxlength="15" 
+            type="text" 
+            placeholder="What is your name?"  
+        />
+        <button>Log In</button>
+    </form>
+    <h2 id="clock"> 00:00</h2>
+    <h1 class="hidden" id="greeting"></h1>
+    <form id="todo-form">
+        <input type="text" placeholder="Write a To Do and Press Enter " required>
+
+    </form>
+    <div class="box hidden">
+        <h3>⚙️</h3>
+        <ul id="todo-list"></ul>
+
+    </div>
+
+    <div id="quote">
+        <span></span>
+        <span></span>
+    </div>
+    <div id="weather">
+        <span></span>
+        <span></span>
+    </div>
+    <script src="js/greeting.js"></script>
+    <script src="js/clock.js"></script>
+    <script src="js/quotes.js"></script>
+    <script src="js/background.js"></script>
+    <script src="js/todo.js"></script>
+    <script src="js/weather.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,168 @@
+디버깅 용 
+*{
+    border: 1px solid red;
+} 
+
+body{
+    background-color:black;
+    margin: 0;
+
+}
+
+.home{
+    position: relative;
+    background-color:black;
+}
+
+
+video {
+    width: 100%;   
+
+}
+
+
+.overlay{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: calc(100% - 100px);
+    padding: 10px 50px
+}
+
+
+.header{
+    display: flex;
+}
+.logo{
+    color: red;
+    margin-right: 40px;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 35px;
+}
+
+.nav{
+    display: flex;
+    line-height: 35px;
+    color: white;
+}
+
+.nav-item{
+    padding: 0 10px;
+}
+
+.menu{
+    display: flex;
+    margin-left: auto;
+    color: white;
+    line-height: 35px;
+}
+
+.menu-item{
+    padding: 0 10px;
+}
+
+.banner{
+    color: white;
+    padding: 70px 0
+}
+
+.series{
+    font-size: 20px;
+
+
+}
+
+.title{
+    font-size:55px
+}
+
+.badge{
+    font-size : 18px;
+    font-weight: 900;
+    padding: 15px 0;
+
+}
+.description{
+    width: 40%;
+
+}
+.buttons{
+    display: flex;
+    padding: 20px 0;
+
+}
+.white-button{
+    color: black;
+    background-color: white;
+    padding: 10px 25px;
+    border-radius: 4px;
+    font-weight: 900;
+    font-size: 18px;
+}
+.grey-button{
+    color: white;
+    background-color: rgba(170, 170, 170, .7);
+    padding: 10px 25px;
+    border-radius: 4px;
+    font-weight: 900;
+    font-size: 18px;
+    margin-left: 10px;
+
+}
+
+.extra{
+    display: flex;
+    position:absolute;
+    right:0;
+    width: 140px;
+}
+    
+
+.replay-botton{
+    display: inline-block;
+    border: 1px solid white;
+    padding : 8px 10px;
+    border-radius: 50%;
+}
+
+.rating{
+    background-color: rgba(170, 170, 170, .4);
+    border-left: 3px solid white;
+    margin-left: 10px;
+    width:100%
+}
+
+.rating img {
+    width: 35px ;
+    height : 35px
+}
+
+.category-list{
+    width: 100%;
+}
+
+.category .title{
+    color:white;
+    font-size: 18px;
+    font-weight: 900;
+    padding: 15px 0;
+}
+
+.list{
+    display: flex;
+    overflow-x: hidden;
+}
+
+.movie{
+    padding:2px ;
+}
+.movie:hover{
+    transform: scale(1.3);
+    transition: 1s;
+    transition-delay: .5s;
+}
+.movie img {
+    border-radius: 4px;
+    margin-left: 10px;
+}

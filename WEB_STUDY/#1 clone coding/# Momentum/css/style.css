@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    margin:0;
+    margin-top:200px;
+
+}
+h1{
+    text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.725);
+
+}
+ul {
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.box {
+    border: 1px dotted black;
+    background-color: rgba(255, 255, 255, 0.363);
+    margin: 20px 0 ;
+    text-align: center;
+    padding: 0 10px
+}
+
+
+.hidden {
+    display: none;
+}
+span {
+    text-shadow: 0px 0px 2px white;
+    font-size : 20px;
+    margin-bottom: 15px;
+}
+input{
+    width:350px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.bgImg{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+
+}
