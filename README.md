@@ -15,14 +15,14 @@ Personal Web S/W Portfolio 👩🏻‍💻
 
 
 <img src="https://i.namu.wiki/i/Y04unaCpnRIC8BDjMd7NA27kc3p_b9y5w4dDBhydErjNYqZZyHnVYiY3MkXeSsZaJeo5N0DKL1KRD3uE2shd1KgbN58FC3dP8FtGoo6bDyIcuv10TqfUnwB-Okc1wr_oQc5WUy0IY0bSUQjVNtfmtg.svg" width="100"/>   <img src="https://i.namu.wiki/i/H2Wwp9N-Q5khQ667FmBJ09NylfzVO9cNGEe5fG7q_0JrOXbxVVgvQvWTrQEfbdnx3PrVx4W3hKX4gntkpMJKFDbanxUlIRtjJhk8kzDyH3lVS1zXTM5Uj0IgjsAN8f2VVhyakGVoYZXyV0w7Gnj9Dw.svg" width = "150" >   
-<img src= "https://i.namu.wiki/i/01XJTXwZRmw1XTy51lOaYsG7NZSc8IH6uSN1Lvf9_30LrypcxKJ9JUfnuEknEs05Pq6ZlWI4WJc47jhlAO5DXQ.svg" width = "50">  
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/200px-Notion-logo.svg.png" width = "50">  
 
 
 
 #### Backend
 
 
-<img src = "https://i.namu.wiki/i/E3jPtFnrTFwL_kIE6cAbCkVM9D5ZzC2Bfp14gqLP2h5KwXNkZUlUcOqdt_RZjWSlaqdMeDnWmVs26DwP0NC9QA.svg" width=150 />   
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/240px-Django_logo.svg.png" width=150 />   
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/240px-SQLite370.svg.png"
 width = "150"
 />
