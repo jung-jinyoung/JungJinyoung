@@ -1,0 +1,44 @@
+[
+{
+    "model": "cultures.choicedbook",
+    "pk": 1,
+    "fields": {
+        "book": 146,
+        "choiced_by": 1,
+        "choiced_at": "2024-05-23",
+        "pages": 0,
+        "now_page": 0,
+        "time": "00:00:00",
+        "mood": "SOSO",
+        "weather": "Clear"
+    }
+},
+{
+    "model": "cultures.choicedbook",
+    "pk": 2,
+    "fields": {
+        "book": 162,
+        "choiced_by": 1,
+        "choiced_at": "2024-05-23",
+        "pages": 0,
+        "now_page": 0,
+        "time": "00:00:00",
+        "mood": "HAPPY",
+        "weather": "Clear"
+    }
+},
+{
+    "model": "cultures.choicedbook",
+    "pk": 3,
+    "fields": {
+        "book": 132,
+        "choiced_by": 4,
+        "choiced_at": "2024-05-23",
+        "pages": 0,
+        "now_page": 0,
+        "time": "00:00:00",
+        "mood": "HAPPY",
+        "weather": "Clear"
+    }
+}
+]

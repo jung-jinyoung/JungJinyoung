@@ -1,0 +1,156 @@
+[
+{
+    "model": "cultures.review",
+    "pk": 1,
+    "fields": {
+        "movie": 21,
+        "book": null,
+        "writer": 1,
+        "weather": "Clear",
+        "mood": "HAPPY",
+        "content": "오늘은 맑은 날씨에 기분도 정말 행복했다. \n그런 날에 딱 맞는 영화, \"인생은 아름다워\"를 봤다. \n주인공 귀도가 아들을 위해 수용소에서도 웃음을 잃지 않는 모습이 정말 감동적이었다. \n인생의 어려움 속에서도 희망을 잃지 말아야겠다는 생각이 들었다.",
+        "created_at": "2023-05-20",
+        "score": 5
+    }
+},
+{
+    "model": "cultures.review",
+    "pk": 2,
+    "fields": {
+        "movie": 98,
+        "book": null,
+        "writer": 1,
+        "weather": "Clear",
+        "mood": "EXHAUSTED",
+        "content": "오늘 드디어 \"귀멸의 칼날: 무한열차편\"을 다시 보았다. 매번 볼 때마다 느끼는 감동은 정말 대단하다...\n특히 렌고쿠 쿄쥬로의 마지막 전투 장면은 눈물이 날 정도로 강렬했다. 그의 불꽃 같은 열정과 강한 신념이 내 마음을 울렸다.",
+        "created_at": "2023-05-21",
+        "score": 5
+    }
+},
+{
+    "model": "cultures.review",
+    "pk": 4,
+    "fields": {
+        "movie": null,
+        "book": 146,
+        "writer": 1,
+        "weather": "Rain",
+        "mood": "Angry",
+        "content": "세이건의 설명은 복잡한 주제를 쉽게 이해하게 해주었고, 우주의 광대함과 인간 존재의 의미에 대해 깊이 생각하게 했다.\n특히, 그의 시적인 문체가 마음에 들었다. 이 책을 통해 우주와 과학에 대한 나의 호기심이 한층 더 커졌다.",
+        "created_at": "2024-05-23",
+        "score": 4
+    }
+},
+{
+    "model": "cultures.review",
+    "pk": 5,
+    "fields": {
+        "movie": null,
+        "book": 162,
+        "writer": 2,
+        "weather": "Rain",
+        "mood": "SOSO",
+        "content": "천개의 인생에서 배운것들 이라는 제목에 비해 너무 가족 이야기가 많아서 아쉬웠다.",
+        "created_at": "2023-05-20",
+        "score": 2
+    }
+},
+{
+    "model": "cultures.review",
+    "pk": 6,
+    "fields": {
+        "movie": 83,
+        "book": null,
+        "writer": 2,
+        "weather": "Clear",
+        "mood": "SAD",
+        "content": "복잡한 감정과 복수의 미묘한 감정이 얽힌 이야기는 마음 한 켠에 갇혀버렸다. \n예술적인 완성도와 함께 남는 것은 생각할 거리가 많은 영화였다.",
+        "created_at": "2024-05-23",
+        "score": 4
+    }
+},
+{
+    "model": "cultures.review",
+    "pk": 7,
+    "fields": {
+        "movie": 68,
+        "book": null,
+        "writer": 17,
+        "weather": "Clouds",
+        "mood": "EXHAUSTED",
+        "content": "찰리 채플린의 유머와 감동이 잔잔하게 어우러진 이야기는 현대사의 비판과 인간 본성에 대한 사색을 안겨줬다. \n따뜻한 메시지와 함께 전달된 채플린의 연기는 마음을 따뜻하게 만들었다.",
+        "created_at": "2024-05-23",
+        "score": 4
+    }
+},
+{
+    "model": "cultures.review",
+    "pk": 8,
+    "fields": {
+        "movie": 81,
+        "book": null,
+        "writer": 5,
+        "weather": "Clear",
+        "mood": "HAPPY",
+        "content": "\"조제 호랑이 그리고 물고기들\"은 행복한 기분과 맑은 날씨를 더해주는 영화다. \n아름다운 풍경과 따뜻한 인간 이야기가 마음을 따뜻하게 만든다. \n감정을 자유롭게 표현하는 주인공들의 모습이 햇살처럼 밝고 희망적이다. ",
+        "created_at": "2024-05-23",
+        "score": 5
+    }
+},
+{
+    "model": "cultures.review",
+    "pk": 9,
+    "fields": {
+        "movie": 21,
+        "book": null,
+        "writer": 5,
+        "weather": "Rain",
+        "mood": "HAPPY",
+        "content": "\"인생은 아름다워\"는 비 오는 날씨에도 희망과 사랑을 전하는 영화다. \n비 속에 감춰진 아름다움을 발견하고 삶의 가치를 깨닫게 해준다. ",
+        "created_at": "2023-05-20",
+        "score": 5
+    }
+},
+{
+    "model": "cultures.review",
+    "pk": 10,
+    "fields": {
+        "movie": 99,
+        "book": null,
+        "writer": 11,
+        "weather": "Clear",
+        "mood": "HAPPY",
+        "content": "오늘 \"아가씨\"를 감상했다. 시각적 아름다움과 강렬한 연출이 인상적이었다. \n복잡한 감정과 스토리의 긴장감이 마음을 사로잡았다. \n정말 중독성 있는 영화였다.\n",
+        "created_at": "2024-05-23",
+        "score": 5
+    }
+},
+{
+    "model": "cultures.review",
+    "pk": 11,
+    "fields": {
+        "movie": 98,
+        "book": null,
+        "writer": 4,
+        "weather": "Clear",
+        "mood": "EXHAUSTED",
+        "content": "진영 언니가 추천해줘서 봤는데, 너무 너무 재밌었다!!\n나중에 3기까지 정주행 해야지~!",
+        "created_at": "2024-05-23",
+        "score": 5
+    }
+},
+{
+    "model": "cultures.review",
+    "pk": 12,
+    "fields": {
+        "movie": null,
+        "book": 132,
+        "writer": 4,
+        "weather": "Clouds",
+        "mood": "SOSO",
+        "content": "맞춤법을 너무 자주 틀려서 고민이었는데, 추천을 받은 김에 한번 사서 읽어봤다. 이제 자주 안틀리겠지?? ",
+        "created_at": "2023-05-16",
+        "score": 4
+    }
+}
+]

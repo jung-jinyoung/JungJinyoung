@@ -1,0 +1,812 @@
+[
+{
+    "model": "cultures.playlist",
+    "pk": 1,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=lX2rzJm3-9A",
+        "genre": "calm",
+        "thumbnails": "https://i.ytimg.com/vi/lX2rzJm3-9A/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 2,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=m876TGnxFxQ",
+        "genre": "calm",
+        "thumbnails": "https://i.ytimg.com/vi/m876TGnxFxQ/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 3,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=GMvR-FPr6v0",
+        "genre": "calm",
+        "thumbnails": "https://i.ytimg.com/vi/GMvR-FPr6v0/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 4,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=GrXyxPIWERo",
+        "genre": "calm",
+        "thumbnails": "https://i.ytimg.com/vi/GrXyxPIWERo/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 5,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=3e-QfQrjcqA",
+        "genre": "calm",
+        "thumbnails": "https://i.ytimg.com/vi/3e-QfQrjcqA/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 6,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=_XtaAK7EtxE",
+        "genre": "calm",
+        "thumbnails": "https://i.ytimg.com/vi/_XtaAK7EtxE/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 7,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=c2_U606zUl4",
+        "genre": "calm",
+        "thumbnails": "https://i.ytimg.com/vi/c2_U606zUl4/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 8,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=3QX_wbfvlfg",
+        "genre": "calm",
+        "thumbnails": "https://i.ytimg.com/vi/3QX_wbfvlfg/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 9,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=HjagNSnWHPw",
+        "genre": "calm",
+        "thumbnails": "https://i.ytimg.com/vi/HjagNSnWHPw/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 10,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=wRQbVyht3lA",
+        "genre": "calm",
+        "thumbnails": "https://i.ytimg.com/vi/wRQbVyht3lA/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 11,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=rub7vg6YG7k",
+        "genre": "classic",
+        "thumbnails": "https://i.ytimg.com/vi/rub7vg6YG7k/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 12,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=_xTOxSSqgzA",
+        "genre": "classic",
+        "thumbnails": "https://i.ytimg.com/vi/_xTOxSSqgzA/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 13,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=HdzIP0twVag",
+        "genre": "classic",
+        "thumbnails": "https://i.ytimg.com/vi/HdzIP0twVag/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 14,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=kAB9cvczDno",
+        "genre": "classic",
+        "thumbnails": "https://i.ytimg.com/vi/kAB9cvczDno/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 15,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=doOFzU_QCjE",
+        "genre": "classic",
+        "thumbnails": "https://i.ytimg.com/vi/doOFzU_QCjE/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 16,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=_dn5vYN2GWY",
+        "genre": "classic",
+        "thumbnails": "https://i.ytimg.com/vi/_dn5vYN2GWY/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 17,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=RIOCbzcqtI8",
+        "genre": "classic",
+        "thumbnails": "https://i.ytimg.com/vi/RIOCbzcqtI8/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 18,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=ZaSaDbGlM3w",
+        "genre": "classic",
+        "thumbnails": "https://i.ytimg.com/vi/ZaSaDbGlM3w/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 19,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=4wKTZsUp7TQ",
+        "genre": "classic",
+        "thumbnails": "https://i.ytimg.com/vi/4wKTZsUp7TQ/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 20,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=VquVOY2utH8",
+        "genre": "classic",
+        "thumbnails": "https://i.ytimg.com/vi/VquVOY2utH8/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 21,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=EKKKYoi_6Gw",
+        "genre": "pop",
+        "thumbnails": "https://i.ytimg.com/vi/EKKKYoi_6Gw/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 22,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=x6i3_LfeTjY",
+        "genre": "pop",
+        "thumbnails": "https://i.ytimg.com/vi/x6i3_LfeTjY/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 23,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=2G_9XIjIUJs",
+        "genre": "pop",
+        "thumbnails": "https://i.ytimg.com/vi/2G_9XIjIUJs/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 24,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=URBcer_Tf3I",
+        "genre": "pop",
+        "thumbnails": "https://i.ytimg.com/vi/URBcer_Tf3I/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 25,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=urx8-yfpY7c",
+        "genre": "pop",
+        "thumbnails": "https://i.ytimg.com/vi/urx8-yfpY7c/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 26,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=7ijwiqxvKVc",
+        "genre": "pop",
+        "thumbnails": "https://i.ytimg.com/vi/7ijwiqxvKVc/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 27,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=lYXMUhWzQGY",
+        "genre": "pop",
+        "thumbnails": "https://i.ytimg.com/vi/lYXMUhWzQGY/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 28,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=3dglwfdbwW0",
+        "genre": "pop",
+        "thumbnails": "https://i.ytimg.com/vi/3dglwfdbwW0/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 29,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=XT3CA57FEos",
+        "genre": "pop",
+        "thumbnails": "https://i.ytimg.com/vi/XT3CA57FEos/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 30,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=hKWtBl2EPzI",
+        "genre": "pop",
+        "thumbnails": "https://i.ytimg.com/vi/hKWtBl2EPzI/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 31,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=3FxIZ53-XZc",
+        "genre": "happy",
+        "thumbnails": "https://i.ytimg.com/vi/3FxIZ53-XZc/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 32,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=S_HqJeQiPjY",
+        "genre": "happy",
+        "thumbnails": "https://i.ytimg.com/vi/S_HqJeQiPjY/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 33,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=sQKky0kOmCg",
+        "genre": "happy",
+        "thumbnails": "https://i.ytimg.com/vi/sQKky0kOmCg/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 34,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=GAiZ0Y-ilVs",
+        "genre": "happy",
+        "thumbnails": "https://i.ytimg.com/vi/GAiZ0Y-ilVs/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 35,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=pW6OoeiPozA",
+        "genre": "happy",
+        "thumbnails": "https://i.ytimg.com/vi/pW6OoeiPozA/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 36,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=HxM_ZV2i0C4",
+        "genre": "happy",
+        "thumbnails": "https://i.ytimg.com/vi/HxM_ZV2i0C4/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 37,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=GQFVPXWK3jQ",
+        "genre": "happy",
+        "thumbnails": "https://i.ytimg.com/vi/GQFVPXWK3jQ/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 38,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=2bhKZuA3mLE",
+        "genre": "happy",
+        "thumbnails": "https://i.ytimg.com/vi/2bhKZuA3mLE/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 39,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=FDwMt6uY7Y4",
+        "genre": "happy",
+        "thumbnails": "https://i.ytimg.com/vi/FDwMt6uY7Y4/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 40,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=tuCuqYg8k8E",
+        "genre": "happy",
+        "thumbnails": "https://i.ytimg.com/vi/tuCuqYg8k8E/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 41,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=3Zh2Xw_h7MI",
+        "genre": "rainy",
+        "thumbnails": "https://i.ytimg.com/vi/3Zh2Xw_h7MI/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 42,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=POC63xbup5c",
+        "genre": "rainy",
+        "thumbnails": "https://i.ytimg.com/vi/POC63xbup5c/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 43,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=c_l1ZwJbAnc",
+        "genre": "rainy",
+        "thumbnails": "https://i.ytimg.com/vi/c_l1ZwJbAnc/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 44,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=rG0c_ZILHKg",
+        "genre": "rainy",
+        "thumbnails": "https://i.ytimg.com/vi/rG0c_ZILHKg/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 45,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=pInRgYhcMa0",
+        "genre": "rainy",
+        "thumbnails": "https://i.ytimg.com/vi/pInRgYhcMa0/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 46,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=F0TM4e_W28A",
+        "genre": "rainy",
+        "thumbnails": "https://i.ytimg.com/vi/F0TM4e_W28A/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 47,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=ysl24Gfh0_Q",
+        "genre": "rainy",
+        "thumbnails": "https://i.ytimg.com/vi/ysl24Gfh0_Q/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 48,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=XleEXGPZDqg",
+        "genre": "rainy",
+        "thumbnails": "https://i.ytimg.com/vi/XleEXGPZDqg/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 49,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=Yc03GLbJ51U",
+        "genre": "rainy",
+        "thumbnails": "https://i.ytimg.com/vi/Yc03GLbJ51U/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 50,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=dQqVlUda25c",
+        "genre": "rainy",
+        "thumbnails": "https://i.ytimg.com/vi/dQqVlUda25c/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 51,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=lRoYW0YNd1o",
+        "genre": "blue",
+        "thumbnails": "https://i.ytimg.com/vi/lRoYW0YNd1o/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 52,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=yJaj_r3bLQ4",
+        "genre": "blue",
+        "thumbnails": "https://i.ytimg.com/vi/yJaj_r3bLQ4/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 53,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=qAg6fTVu8gI",
+        "genre": "blue",
+        "thumbnails": "https://i.ytimg.com/vi/qAg6fTVu8gI/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 54,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=CrfsnUklH4k",
+        "genre": "blue",
+        "thumbnails": "https://i.ytimg.com/vi/CrfsnUklH4k/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 55,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=75kySTFaBQQ",
+        "genre": "blue",
+        "thumbnails": "https://i.ytimg.com/vi/75kySTFaBQQ/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 56,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=qRzMFnje3jk",
+        "genre": "blue",
+        "thumbnails": "https://i.ytimg.com/vi/qRzMFnje3jk/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 57,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=Nw2gw53Rm5s",
+        "genre": "blue",
+        "thumbnails": "https://i.ytimg.com/vi/Nw2gw53Rm5s/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 58,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=8CB_SewtDok",
+        "genre": "blue",
+        "thumbnails": "https://i.ytimg.com/vi/8CB_SewtDok/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 59,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=BaoS8a7xj7M",
+        "genre": "blue",
+        "thumbnails": "https://i.ytimg.com/vi/BaoS8a7xj7M/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 60,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=9dcU1WzgNaY",
+        "genre": "blue",
+        "thumbnails": "https://i.ytimg.com/vi/9dcU1WzgNaY/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 61,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=LMGctPGR7Zs",
+        "genre": "j-pop",
+        "thumbnails": "https://i.ytimg.com/vi/LMGctPGR7Zs/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 62,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=6aQ4lK1xCcI",
+        "genre": "j-pop",
+        "thumbnails": "https://i.ytimg.com/vi/6aQ4lK1xCcI/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 63,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=VkYrVhb_U1M",
+        "genre": "j-pop",
+        "thumbnails": "https://i.ytimg.com/vi/VkYrVhb_U1M/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 64,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=sMSTyIbikOE",
+        "genre": "j-pop",
+        "thumbnails": "https://i.ytimg.com/vi/sMSTyIbikOE/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 65,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=0OmfWR5WxxM",
+        "genre": "j-pop",
+        "thumbnails": "https://i.ytimg.com/vi/0OmfWR5WxxM/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 66,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=bsMl9e2l2Vg",
+        "genre": "j-pop",
+        "thumbnails": "https://i.ytimg.com/vi/bsMl9e2l2Vg/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 67,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=97gN5fzOLi0",
+        "genre": "j-pop",
+        "thumbnails": "https://i.ytimg.com/vi/97gN5fzOLi0/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 68,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=MbX7hzcHlFQ",
+        "genre": "j-pop",
+        "thumbnails": "https://i.ytimg.com/vi/MbX7hzcHlFQ/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 69,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=4IVGSfOZAv8",
+        "genre": "j-pop",
+        "thumbnails": "https://i.ytimg.com/vi/4IVGSfOZAv8/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 70,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=QVbEb6hQb18",
+        "genre": "j-pop",
+        "thumbnails": "https://i.ytimg.com/vi/QVbEb6hQb18/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 71,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=NQnZO5AFQi8",
+        "genre": "jazz",
+        "thumbnails": "https://i.ytimg.com/vi/NQnZO5AFQi8/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 72,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=Llour2YvsiI",
+        "genre": "jazz",
+        "thumbnails": "https://i.ytimg.com/vi/Llour2YvsiI/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 73,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=p22EqQBYRBM",
+        "genre": "jazz",
+        "thumbnails": "https://i.ytimg.com/vi/p22EqQBYRBM/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 74,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=mesRhn_OWA8",
+        "genre": "jazz",
+        "thumbnails": "https://i.ytimg.com/vi/mesRhn_OWA8/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 75,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=SA_0cZ3Lsa4",
+        "genre": "jazz",
+        "thumbnails": "https://i.ytimg.com/vi/SA_0cZ3Lsa4/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 76,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=PENa-geh_XA",
+        "genre": "jazz",
+        "thumbnails": "https://i.ytimg.com/vi/PENa-geh_XA/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 77,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=pInRgYhcMa0",
+        "genre": "jazz",
+        "thumbnails": "https://i.ytimg.com/vi/pInRgYhcMa0/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 78,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=UcXcnAP42Kw",
+        "genre": "jazz",
+        "thumbnails": "https://i.ytimg.com/vi/UcXcnAP42Kw/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 79,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=XQye9WByVsU",
+        "genre": "jazz",
+        "thumbnails": "https://i.ytimg.com/vi/XQye9WByVsU/hqdefault_live.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 80,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=uTuuz__8gUM",
+        "genre": "jazz",
+        "thumbnails": "https://i.ytimg.com/vi/uTuuz__8gUM/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 81,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=XKV7dNInsGA",
+        "genre": "rock",
+        "thumbnails": "https://i.ytimg.com/vi/XKV7dNInsGA/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 82,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=vSOwzOqAcqk",
+        "genre": "rock",
+        "thumbnails": "https://i.ytimg.com/vi/vSOwzOqAcqk/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 83,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=gt7mXfDcL_E",
+        "genre": "rock",
+        "thumbnails": "https://i.ytimg.com/vi/gt7mXfDcL_E/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 84,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=MzmdLzN_4IY",
+        "genre": "rock",
+        "thumbnails": "https://i.ytimg.com/vi/MzmdLzN_4IY/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 85,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=oGjkndNU9U8",
+        "genre": "rock",
+        "thumbnails": "https://i.ytimg.com/vi/oGjkndNU9U8/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 86,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=li_Bzf6zV8w",
+        "genre": "rock",
+        "thumbnails": "https://i.ytimg.com/vi/li_Bzf6zV8w/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 87,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=JSxt3ocPh7A",
+        "genre": "rock",
+        "thumbnails": "https://i.ytimg.com/vi/JSxt3ocPh7A/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 88,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=oKKZQOVI8ok",
+        "genre": "rock",
+        "thumbnails": "https://i.ytimg.com/vi/oKKZQOVI8ok/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 89,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=pAh2Fi08pR8",
+        "genre": "rock",
+        "thumbnails": "https://i.ytimg.com/vi/pAh2Fi08pR8/hqdefault.jpg"
+    }
+},
+{
+    "model": "cultures.playlist",
+    "pk": 90,
+    "fields": {
+        "url": "https://www.youtube.com/watch?v=aVSnfYa9AiE",
+        "genre": "rock",
+        "thumbnails": "https://i.ytimg.com/vi/aVSnfYa9AiE/hqdefault.jpg"
+    }
+}
+]

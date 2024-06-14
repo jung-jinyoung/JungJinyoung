@@ -1,0 +1,112 @@
+[
+{
+    "model": "cultures.choicedmovie",
+    "pk": 1,
+    "fields": {
+        "movie": 21,
+        "choiced_by": 1,
+        "choiced_at": "2024-05-23",
+        "mood": "HAPPY",
+        "weather": "Clear"
+    }
+},
+{
+    "model": "cultures.choicedmovie",
+    "pk": 2,
+    "fields": {
+        "movie": 98,
+        "choiced_by": 1,
+        "choiced_at": "2024-05-23",
+        "mood": "EXHAUSTED",
+        "weather": "Clear"
+    }
+},
+{
+    "model": "cultures.choicedmovie",
+    "pk": 3,
+    "fields": {
+        "movie": 98,
+        "choiced_by": 1,
+        "choiced_at": "2024-05-23",
+        "mood": "EXHAUSTED",
+        "weather": "Clear"
+    }
+},
+{
+    "model": "cultures.choicedmovie",
+    "pk": 4,
+    "fields": {
+        "movie": 51,
+        "choiced_by": 2,
+        "choiced_at": "2024-05-23",
+        "mood": "SAD",
+        "weather": "Clear"
+    }
+},
+{
+    "model": "cultures.choicedmovie",
+    "pk": 5,
+    "fields": {
+        "movie": 83,
+        "choiced_by": 2,
+        "choiced_at": "2024-05-23",
+        "mood": "SAD",
+        "weather": "Clear"
+    }
+},
+{
+    "model": "cultures.choicedmovie",
+    "pk": 6,
+    "fields": {
+        "movie": 68,
+        "choiced_by": 17,
+        "choiced_at": "2024-05-23",
+        "mood": "EXHAUSTED",
+        "weather": "Clear"
+    }
+},
+{
+    "model": "cultures.choicedmovie",
+    "pk": 7,
+    "fields": {
+        "movie": 81,
+        "choiced_by": 5,
+        "choiced_at": "2024-05-23",
+        "mood": "HAPPY",
+        "weather": "Clear"
+    }
+},
+{
+    "model": "cultures.choicedmovie",
+    "pk": 8,
+    "fields": {
+        "movie": 21,
+        "choiced_by": 5,
+        "choiced_at": "2024-05-23",
+        "mood": "HAPPY",
+        "weather": "Clear"
+    }
+},
+{
+    "model": "cultures.choicedmovie",
+    "pk": 9,
+    "fields": {
+        "movie": 99,
+        "choiced_by": 11,
+        "choiced_at": "2024-05-23",
+        "mood": "HAPPY",
+        "weather": "Clear"
+    }
+},
+{
+    "model": "cultures.choicedmovie",
+    "pk": 10,
+    "fields": {
+        "movie": 98,
+        "choiced_by": 4,
+        "choiced_at": "2024-05-23",
+        "mood": "EXHAUSTED",
+        "weather": "Clear"
+    }
+}
+]
